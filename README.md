@@ -1,6 +1,8 @@
 This is a fork of [OsaSoft/Youtube better subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions), updated to Manifest V3, to make it work in Chrome 138+ (as per https://github.com/OsaSoft/youtube-better-subscriptions/issues/195).
 
-This fix is not available in the Chrome store. It can be added to the browser by following the instructions to "Load an unpacked extension" in [the Chrome documentation](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked).
+**Important note:** this does not remember any videos you watched with the original Youtube Better Subscriptions. At least with Chrome 138 and 139, [it's possible](https://www.neowin.net/guides/you-can-still-enable-ublock-origin-in-chrome-here-is-how/) to temporarily re-enable Manifest V2 extensions like YBS, so you can export your watched videos from there, and then import them with this fixed version. I don't have any advice to restore your watched videos if that doesn't work or stops working.
+
+This fix is not available in the Chrome store. It can be added to the browser by downloading the code and following the instructions to "Load an unpacked extension" in [the Chrome documentation](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked).
 
 Use at your own risk. I've been happily using Youtube Better Subscriptions for a while now, but I can't guarantee its safety.
 
