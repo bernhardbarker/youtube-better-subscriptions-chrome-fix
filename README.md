@@ -1,3 +1,15 @@
+This is a fork of [OsaSoft/Youtube better subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions), updated to Manifest V3, to make it work in Chrome 138+ (as per https://github.com/OsaSoft/youtube-better-subscriptions/issues/195).
+
+This fix is not available in the Chrome store. It can be added to the browser by following the instructions to "Load an unpacked extension" in [the Chrome documentation](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked).
+
+Use at your own risk. I've been happily using Youtube Better Subscriptions for a while now, but I can't guarantee its safety.
+
+This is not intended to meaningfully extend the original project, nor fix any future issues. I'll probably take a look at pull requests to fix minor issues that stop this from working. But if you're interested in making bigger changes, you're better off creating your own branch.
+
+The original readme follows below.
+
+---
+
 # Youtube better subscriptions
 This plugin aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos.
 This plugin is in early development and will often change and (hopefully) include new features.
