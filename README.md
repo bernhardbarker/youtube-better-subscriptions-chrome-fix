@@ -1,3 +1,7 @@
+Archive note: The original project is under active development again and has received plenty of updates since this fork was made, so this fork is likely no longer useful.
+
+---
+
 This is a fork of [OsaSoft/Youtube better subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions), updated to Manifest V3, to make it work in Chrome 138+ (as per https://github.com/OsaSoft/youtube-better-subscriptions/issues/195).
 
 **Important note:** this does not remember any videos you watched with the original Youtube Better Subscriptions. At least with Chrome 138 and 139, [it's possible](https://www.neowin.net/guides/you-can-still-enable-ublock-origin-in-chrome-here-is-how/) to temporarily re-enable Manifest V2 extensions like YBS, so you can export your watched videos from there, and then import them with this fixed version. I don't have any advice to restore your watched videos if that doesn't work or stops working.
